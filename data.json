@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "purchase_history": [
+            {
+                "product": "Laptop",
+                "quantity": 1
+            },
+            {
+                "product": "Mouse",
+                "quantity": 2
+            },
+            {
+                "product": "Keyboard",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "name": "Bob",
+        "email": "bob@example.com",
+        "purchase_history": [
+            {
+                "product": "Laptop",
+                "quantity": 1
+            },
+            {
+                "product": "Mouse",
+                "quantity": 1
+            },
+            {
+                "product": "Headphones",
+                "quantity": 1
+            },
+            {
+                "product": "Mouse",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "name": "Charlie",
+        "email": "charlie@example.com",
+        "purchase_history": [
+            {
+                "product": "Monitor",
+                "quantity": 2
+            },
+            {
+                "product": "Laptop",
+                "quantity": 1
+            },
+            {
+                "product": "Keyboard",
+                "quantity": 1
+            },
+            {
+                "product": "Mouse",
+                "quantity": 1
+            }
+        ]
+    }
+]
